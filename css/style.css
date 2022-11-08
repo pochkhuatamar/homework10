@@ -39,3 +39,74 @@ button[type=send] {
 textarea {
     resize: none;
 }
+
+/* section2 */
+
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: 2px solid red;
+}
+
+.threebox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+
+.fa-envelope {
+    margin-bottom: 10px;
+    width: 59px;
+
+}
+.fa-phone {
+    margin-bottom: 10px;
+    width: 59px;
+
+}
+.fa-location-dot {
+    margin-bottom: 10px;
+    width: 59px;
+
+}
+
+.pel > h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.pel > p {
+    
+}
+
+/* images */
+
+.info-box {
+    border: 1px solid red; 
+    width: 240px;
+    margin-right: 50px; 
+    margin-left: 15px; 
+    margin-top: 20px;
+}
+.threephotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.images{
+    width: 280px;
+    margin-bottom: 20px
+    
+}
+.images > img {
+    width: 100%;
+    margin-bottom: 20px;
+}
