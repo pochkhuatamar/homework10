@@ -1,0 +1,37 @@
+/* .contact h2 {
+    margin:top 59px ; left: 139px;
+    width: 49px;
+}
+.contact p {
+    margin:top 88px; left: 139px;
+    width: 378px;
+} */
+/* .inlab {
+    flex-direction: column;
+}
+
+form {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+} */
+input[type=text] {
+    width: 352px;
+    padding: 12px 20px;
+    margin: 15px ;
+    /* display: inline-block; */
+    border: 2px solid 
+    box-sizing: border-box;
+
+}
+button[type=send] {
+    width: 352px;
+    padding: 12px 20px;
+    margin: 15px ;
+    /* display: inline-block; */
+    border: 2px solid 
+    box-sizing: border-box;
+    background-color: green;
+
+}
