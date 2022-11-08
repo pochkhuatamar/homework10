@@ -35,3 +35,7 @@ button[type=send] {
     background-color: green;
 
 }
+
+textarea {
+    resize: none;
+}
